@@ -117,8 +117,14 @@
 							<small id="nickname_response" class="form-text text-alert"></small>
 						</div>
 					</div>
+					<div class="col-md-6">
+						<label for="email">Аватар сонгох:</label>
+						<figure class="comments-list__avatar2">
+							<a href="javascript:;"><img src="{{ asset('uploads/avatars/001.png') }}" alt=""></a>
+						</figure>
+					</div>
 				</div>
-
+				
 				<div class="row">
 					<div class="col-md-12">
 						<label class="checkbox checkbox-inline">
