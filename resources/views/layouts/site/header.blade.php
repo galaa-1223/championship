@@ -21,6 +21,7 @@
 
         <!-- Account Navigation -->
         <ul class="nav-account">
+          <li class="nav-account__item nav-account__item--wishlist gc-udirdamj"><a href="#">Удирдамж</a></li>
           @guest
           <li class="nav-account__item"><a href="#" data-toggle="modal" data-target="#modal-login-register">Бүртгүүлэх | Нэвтрэх</a></li>
           @endguest
@@ -70,7 +71,7 @@
         <nav class="main-nav clearfix">
           <ul class="main-nav__list">
             <li class="active"><a href="{{ route('home.index') }}">Эхлэл</a></li>
-            <li><a href="{{ route('home.index') }}">Удирдамж</a></li>
+            <li><a href="{{ route('home.index') }}">Мэдээ мэдээлэл</a></li>
             <li><a href="{{ route('home.index') }}">Заавар</a></li>
             <li><a href="{{ route('home.index') }}">Зөвлөгөө</a></li>
             <li><a href="{{ route('home.index') }}">Холбоо барих</a></li>

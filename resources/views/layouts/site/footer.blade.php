@@ -12,7 +12,7 @@
 		
 									<!-- Footer Logo -->
 									<div class="footer-logo">
-										<a href="index.html"><img src="{{ asset('assets/images/logo.png') }}" srcset="{{ asset('assets/images/logo@2x.png 2x') }}" alt="Alchemists" class="footer-logo__img"></a>
+										<a href="{{ route('home.index') }}"><img src="{{ asset('assets/images/logo.png') }}" srcset="{{ asset('assets/images/logo@2x.png 2x') }}" alt="Golomt capital championship 2023" class="footer-logo__img"></a>
 									</div>
 									<!-- Footer Logo / End -->
 		
@@ -29,18 +29,14 @@
 											</div>
 											<div class="widget-contact-info__body info-block">
 												<div class="info-block__item">
-													<svg role="img" class="df-icon df-icon--basketball">
-														<use xlink:href="{{ asset('assets/images/icons-basket.svg#basketball') }}"/>
-													</svg>
-													<h6 class="info-block__heading">Contact Us</h6>
-													<a class="info-block__link" href="mailto:tryouts@alchemists.com">contest@golomtcapital.com</a>
+													<img src="{{ asset('assets/images/phone.png') }}" class="df-icon df-icon--basketball"/>
+													<h6 class="info-block__heading">Холбоо барих</h6>
+													<a class="info-block__link" href="tel:9767012-1530">7012-1530</a>
 												</div>
 												<div class="info-block__item">
-													<svg role="img" class="df-icon df-icon--jersey">
-														<use xlink:href="{{ asset('assets/images/icons-basket.svg#jersey') }}"/>
-													</svg>
-													<h6 class="info-block__heading">Join Our Team!</h6>
-													<a class="info-block__link" href="mailto:info@alchemists.com">info@alchemists.com</a>
+													<img src="{{ asset('assets/images/mail.png') }}" class="df-icon df-icon--basketball"/>
+													<h6 class="info-block__heading">Имэйл хаяг</h6>
+													<a class="info-block__link" href="mailto:championship@golomtcapital.com">championship@golomtcapital.com</a>
 												</div>
 												<div class="info-block__item info-block__item--nopadding">
 													<ul class="social-links">
@@ -73,24 +69,24 @@
 		
 												<li class="posts__item posts__item--category-2">
 													<div class="posts__cat">
-														<span class="label posts__cat-label">Injuries</span>
+														<span class="label posts__cat-label">Мэдээ мэдээлэл</span>
 													</div>
-													<h6 class="posts__title posts__title--color-hover"><a href="#">Mark Johnson has a Tibia Fracture and is gonna be out</a></h6>
-													<time datetime="2017-08-23" class="posts__date">August 23rd, 2018</time>
+													<h6 class="posts__title posts__title--color-hover"><a href="#">Silicon Valley Bank-ны хувьцаа 60 хувь унав</a></h6>
+													<time datetime="2023.03.13" class="posts__date">2023.03.13</time>
 												</li>
 												<li class="posts__item posts__item--category-1">
 													<div class="posts__cat">
-														<span class="label posts__cat-label">The Team</span>
+														<span class="label posts__cat-label">Мэдээ мэдээлэл</span>
 													</div>
-													<h6 class="posts__title posts__title--color-hover"><a href="#">Jay Rorks is only 24 points away from breaking the record</a></h6>
-													<time datetime="2017-08-23" class="posts__date">August 22nd, 2018</time>
+													<h6 class="posts__title posts__title--color-hover"><a href="#">Silicon Valley Bank-ны хувьцаа 60 хувь унав</a></h6>
+													<time datetime="2023.03.13" class="posts__date">2023.03.13</time>
 												</li>
 												<li class="posts__item posts__item--category-1">
 													<div class="posts__cat">
-														<span class="label posts__cat-label">The Team</span>
+														<span class="label posts__cat-label">Мэдээ мэдээлэл</span>
 													</div>
-													<h6 class="posts__title posts__title--color-hover"><a href="#">The new eco friendly stadium won a Leafy Award in 2016</a></h6>
-													<time datetime="2017-08-23" class="posts__date">June 8th, 2018</time>
+													<h6 class="posts__title posts__title--color-hover"><a href="#">Silicon Valley Bank-ны хувьцаа 60 хувь унав</a></h6>
+													<time datetime="2023.03.13" class="posts__date">2023.03.13</time>
 												</li>
 		
 											</ul>
@@ -104,7 +100,7 @@
 		
 									<!-- Widget: Instagram -->
 									<div class="widget widget--footer widget-instagram">
-										<h4 class="widget__title">Gallery</h4>
+										<h4 class="widget__title">Зургийн цомог</h4>
 										<div class="widget__content">
 											<ul id="instagram-feed" class="widget-instagram__list">
 												<li class="widget-instagram__item">
@@ -157,6 +153,30 @@
 		
 								</div>
 							</div>
+							<!-- Sponsors -->
+							<div class="container">
+								<div class="sponsors">
+									<h6 class="sponsors-title">Хамтрагчид:</h6>
+									<ul class="sponsors-logos">
+										<li class="sponsors__item">
+											<a href="#" target="_blank">
+												<img src="assets/images/sponsor-visa.png" alt="">
+											</a>
+										</li>
+										<li class="sponsors__item">
+											<a href="#" target="_blank">
+												<img src="assets/images/sponsor-visa.png" alt="">
+											</a>
+										</li>
+										<li class="sponsors__item">
+											<a href="#" target="_blank">
+												<img src="assets/images/sponsor-visa.png" alt="">
+											</a>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<!-- Sponsors / End -->
 						</div>
 					</div>
 				</div>
@@ -172,7 +192,7 @@
 								<ul class="footer-nav">
 		
 									<li class="footer-nav__item"><a href="/">Эхлэл</a></li>
-									<li class="footer-nav__item"><a href="/">Удирдамж</a></li>
+									<li class="footer-nav__item"><a href="/">Мэдээ мэдээлэл</a></li>
 									<li class="footer-nav__item"><a href="/">Заавар</a></li>
 									<li class="footer-nav__item"><a href="/">Зөвлөгөө</a></li>
 									<li class="footer-nav__item"><a href="/">Холбоо барих</a></li>

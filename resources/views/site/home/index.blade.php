@@ -71,32 +71,26 @@
 										<div class="posts__item posts__item--card posts__item--category-1 card card--block">
 											<figure class="posts__thumb">
 												<a href="#"><img src="assets/images/samples/post-img9-m.jpg" alt=""></a>
-												<a href="#" class="posts__cta"></a>
 											</figure>
 											<div class="posts__inner">
 												<div class="card__content">
 													<div class="posts__cat">
-														<span class="label posts__cat-label">The Team</span>
+														<span class="label posts__cat-label">Мэдээ мэдээлэл</span>
 													</div>
-													<h6 class="posts__title"><a href="#">The team is taking a summer vacation on Woody Valley</a></h6>
-													<time datetime="2016-08-17" class="posts__date">August 17th, 2018</time>
+													<h6 class="posts__title"><a href="#">Silicon Valley Bank-ны хувьцаа 60 хувь унав</a></h6>
+													<time datetime="2016-08-17" class="posts__date">2023.03.13</time>
 													<div class="posts__excerpt">
-														Lorem ipsum dolor sit amet, consectetur adipisi nel elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+													Пүрэв гарагийн арилжаагаар индексүүд уналттай хаагдлаа. Dow Jones индекс 1.7 хувь буюу 543 нэгжээр, Nasdaq Composite 2 хувь, S&P 500 1.8 хувиар тус тус уналаа. 
 													</div>
 												</div>
 												<footer class="posts__footer card__footer">
 													<div class="post-author">
 														<figure class="post-author__avatar">
-															<img src="assets/images/samples/avatar-2.jpg" alt="Post Author Avatar">
 														</figure>
-														<div class="post-author__info">
-															<h4 class="post-author__name">Jessica Hoops</h4>
-														</div>
 													</div>
 													<ul class="post__meta meta">
-														<li class="meta__item meta__item--views">2369</li>
-														<li class="meta__item meta__item--likes"><a href="#"><i class="meta-like icon-heart"></i> 530</a></li>
-														<li class="meta__item meta__item--comments"><a href="#">18</a></li>
+														<li class="meta__item meta__item--views">0</li>
+														<li class="meta__item meta__item--likes"><a href="#"><i class="meta-like icon-heart"></i> 0</a></li>
 													</ul>
 												</footer>
 											</div>
@@ -206,12 +200,9 @@
 				<!-- Video Slideshow -->
 				<div class="card card--clean">
 					<header class="card__header card__header--has-filter">
-						<h4>Video Slideshow</h4>
+						<h4>Видео</h4>
 						<ul class="category-filter category-filter--carousel category-filter--extra-space">
-							<li class="category-filter__item"><a href="#" class="category-filter__link category-filter__link--reset category-filter__link--active">All</a></li>
-							<li class="category-filter__item"><a href="#" class="category-filter__link" data-category="posts__item--category-1">The Team</a></li>
-							<li class="category-filter__item"><a href="#" class="category-filter__link" data-category="posts__item--category-3">Playoffs</a></li>
-							<li class="category-filter__item"><a href="#" class="category-filter__link" data-category="posts__item--category-2">Injuries</a></li>
+							<li class="category-filter__item"><a href="#" class="category-filter__link category-filter__link--reset category-filter__link--active">Бүгд</a></li>
 						</ul>
 					</header>
 					<div class="card__content">
@@ -220,117 +211,54 @@
 						<div class="slick posts posts--carousel video-carousel">
 		
 							<div class="posts__item posts__item--category-1">
-								<a href="https://www.youtube.com/watch?v&#x3D;XE0fU9PCrWE" class="posts__link-wrapper mp_iframe">
+								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
 										<img src="assets/images/samples/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">The Team</span>
-										</div>
-										<h3 class="posts__title">Cheerleader tryouts will start next Friday at 5pm</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
+										<h3 class="posts__title">Golomt capital championship 2023</h3>
+										<time datetime="2023.03.13" class="posts__date">2023.03.13</time>
 									</div>
 								</a>
 							</div>
-							<div class="posts__item posts__item--category-3">
-								<a href="https://vimeo.com/68384616" class="posts__link-wrapper mp_iframe">
-									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide2.jpg" alt="">
-									</figure>
-									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">Playoffs</span>
-										</div>
-										<h3 class="posts__title">Spectacular view from the top of the stadium</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
-									</div>
-								</a>
-							</div>
+
 							<div class="posts__item posts__item--category-1">
-								<a href="https://www.youtube.com/watch?v&#x3D;87FAolfQ0LY" class="posts__link-wrapper mp_iframe">
+								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide3.jpg" alt="">
+										<img src="assets/images/samples/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">The Team</span>
-										</div>
-										<h3 class="posts__title">&quot;Shiw Wow&quot; is the Alchemists new pet, check him out!</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
+										<h3 class="posts__title">Golomt capital championship 2023</h3>
+										<time datetime="2023.03.13" class="posts__date">2023.03.13</time>
 									</div>
 								</a>
 							</div>
-							<div class="posts__item posts__item--category-2">
-								<a href="https://www.youtube.com/watch?v&#x3D;ck0MCCIFD-o" class="posts__link-wrapper mp_iframe">
-									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide4.jpg" alt="">
-									</figure>
-									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">Injuries</span>
-										</div>
-										<h3 class="posts__title">Mark Johnson has a Tibia Fracture and is gonna be out</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
-									</div>
-								</a>
-							</div>
+
 							<div class="posts__item posts__item--category-1">
-								<a href="https://www.youtube.com/watch?v&#x3D;XE0fU9PCrWE" class="posts__link-wrapper mp_iframe">
+								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide5.jpg" alt="">
+										<img src="assets/images/samples/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">The Team</span>
-										</div>
-										<h3 class="posts__title">Cheerleader tryouts will start next Friday at 5pm</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
+										<h3 class="posts__title">Golomt capital championship 2023</h3>
+										<time datetime="2023.03.13" class="posts__date">2023.03.13</time>
 									</div>
 								</a>
 							</div>
-							<div class="posts__item posts__item--category-3">
-								<a href="https://www.youtube.com/watch?v&#x3D;ab0TSkLe-E0" class="posts__link-wrapper mp_iframe">
-									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide6.jpg" alt="">
-									</figure>
-									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">Playoffs</span>
-										</div>
-										<h3 class="posts__title">Spectacular view from the top of the stadium</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
-									</div>
-								</a>
-							</div>
+
 							<div class="posts__item posts__item--category-1">
-								<a href="https://vimeo.com/68384616" class="posts__link-wrapper mp_iframe">
+								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide7.jpg" alt="">
+										<img src="assets/images/samples/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">The Team</span>
-										</div>
-										<h3 class="posts__title">&quot;Shiw Wow&quot; is the Alchemists new pet, check him out!</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
+										<h3 class="posts__title">Golomt capital championship 2023</h3>
+										<time datetime="2023.03.13" class="posts__date">2023.03.13</time>
 									</div>
 								</a>
 							</div>
-							<div class="posts__item posts__item--category-2">
-								<a href="https://www.youtube.com/watch?v&#x3D;XE0fU9PCrWE" class="posts__link-wrapper mp_iframe">
-									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide8.jpg" alt="">
-									</figure>
-									<div class="posts__inner">
-										<div class="posts__cat">
-											<span class="label posts__cat-label">Injuries</span>
-										</div>
-										<h3 class="posts__title">Mark Johnson has a Tibia Fracture and is gonna be out</h3>
-										<time datetime="2017-08-28" class="posts__date">August 28th, 2018</time>
-									</div>
-								</a>
-							</div>
+							
+							
 		
 						</div>
 						<!-- Carousel / End -->

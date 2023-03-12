@@ -134,11 +134,11 @@ body {
   margin: 0 auto;
 }
 #jprePercentage::before {
-  content: "Loading...";
+  content: "Уншиж байна...";
   color: #fff;
 }
 #jprePercentage::after {
-  content: "Alchemists Template";
+  content: "Golomt capital championship";
   display: block;
   font-size: 8px;
   line-height: 1.5em;
@@ -12977,12 +12977,12 @@ input.header-mobile__search-control:focus {
 */
 .site-content,
 .section {
-  padding: 30px 0;
+  padding: 0 0 30px 0;
 }
 @media (min-width: 992px) {
   .site-content,
 .section {
-    padding: 60px 0;
+    padding: 30px 0;
   }
 }
 
@@ -13042,7 +13042,7 @@ input.header-mobile__search-control:focus {
 @media (min-width: 992px) {
   .footer-widgets__inner {
     padding-top: 80px;
-    padding-bottom: 96px;
+    /* padding-bottom: 96px; */
   }
 }
 
@@ -13273,7 +13273,7 @@ input.header-mobile__search-control:focus {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  border-top: 1px solid #2e2f31;
+  border-top: 1px solid rgba(255,255,255, 0.2);
   padding: 24px 0 24px 0;
   margin: 0;
   -ms-flex-wrap: wrap;
@@ -36815,6 +36815,19 @@ table.alc-event-result-labels > tbody > tr > td.alc-results .label--basic {
   vertical-align: middle;
   margin-left: 70px;
   border: 5px solid red;
+}
+
+.gc-udirdamj {
+  padding: 0 30px;
+  line-height: 62px;
+  background-color: #5fa01d;
+  vertical-align: top;
+  margin-left: 27px;
+  position: relative;
+}
+
+.gc-udirdamj a:hover{
+  color: #ffcc00 !important;
 }
 
 /*# sourceMappingURL=maps/style-basketball.css.map */
