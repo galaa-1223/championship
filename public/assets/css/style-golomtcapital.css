@@ -11796,6 +11796,7 @@ input.header-mobile__search-control:focus {
   right: 0;
   bottom: 0;
   max-width: 50%;
+  height: 600px;
 }
 .hero-unit__img img {
   max-height: 100%;
@@ -32107,13 +32108,12 @@ table.alc-event-result-labels > tbody > tr > td.alc-results .label--basic {
 
 .info-block__link {
   display: block;
-  text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
-  font-size: 9px;
+  font-size: 11px;
   line-height: 1.2em;
   font-weight: 400;
   font-style: normal;
-  color: #6b6d70;
+  color: rgba(255, 255, 255, 0.5);
   vertical-align: top;
   -webkit-transition: color 0.25s cubic-bezier(0.3, 0.1, 0.55, 1);
   transition: color 0.25s cubic-bezier(0.3, 0.1, 0.55, 1);
@@ -33335,7 +33335,7 @@ table.alc-event-result-labels > tbody > tr > td.alc-results .label--basic {
 
 .match-preview__content {
   overflow: hidden;
-  padding: 0 0 30px 0;
+  padding: 0 0 0px 0;
 }
 
 .match-preview__team {
@@ -33345,7 +33345,7 @@ table.alc-event-result-labels > tbody > tr > td.alc-results .label--basic {
 @media (min-width: 768px) {
   .match-preview__team {
     float: left;
-    width: 37%;
+    width: 50%;
     text-align: center;
     margin-bottom: 0;
   }

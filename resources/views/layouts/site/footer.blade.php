@@ -172,6 +172,10 @@
 								<ul class="footer-nav">
 		
 									<li class="footer-nav__item"><a href="/">Эхлэл</a></li>
+									<li class="footer-nav__item"><a href="/">Удирдамж</a></li>
+									<li class="footer-nav__item"><a href="/">Заавар</a></li>
+									<li class="footer-nav__item"><a href="/">Зөвлөгөө</a></li>
+									<li class="footer-nav__item"><a href="/">Холбоо барих</a></li>
 		
 								</ul>
 							</div>
