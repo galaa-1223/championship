@@ -114,16 +114,16 @@ $("#handleAjax").validate({
     }
   },
   messages: {
-    phone2: "Please enter your firstname",
+    phone2: "Утасны дугаараа заавал оруулна уу!",
     password2: {
-      required: "Please provide a password",
-      minlength: "Your password must be at least 5 characters long"
+      required: "Нууц үгээ оруулна уу!",
+      minlength: "Нууц үг багадаа 8 тэмдэгт байна!"
     },
     password_repeat2: {
-      required: "Please provide a password",
-      minlength: "Your password must be at least 5 characters long",
-      equalTo: "Please enter the same password as above"
+      required: "Нууц үгээ давтаж оруулна уу!",
+      minlength: "Нууц үгээ давтах багадаа 8 тэмдэгт байна!",
+      equalTo: "Нууц үг, нууц үг давтах таарахгүй байна!"
     },
-    email2: "Please enter a valid email address",
+    email2: "Имэйл хаяг оруулна уу!",
   }
 });
