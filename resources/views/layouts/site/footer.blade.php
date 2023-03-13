@@ -42,13 +42,13 @@
 													<ul class="social-links">
 		
 														<li class="social-links__item">
-															<a href="#" class="social-links__link"><i class="fab fa-facebook"></i> Facebook</a>
+															<a href="https://www.facebook.com/GolomtCapital" target="_blank" class="social-links__link"><i class="fab fa-facebook"></i> Facebook</a>
 														</li>
 														<li class="social-links__item">
-															<a href="#" class="social-links__link"><i class="fab fa-twitter"></i> Twitter</a>
+															<a href="https://twitter.com/golomtcapital" target="_blank" class="social-links__link"><i class="fab fa-twitter"></i> Twitter</a>
 														</li>
 														<li class="social-links__item">
-															<a href="#" class="social-links__link"><i class="fab fa-instagram"></i> Instagram</a>
+															<a href="https://www.instagram.com/golomt_capital/" target="_blank" class="social-links__link"><i class="fab fa-instagram"></i> Instagram</a>
 														</li>
 		
 													</ul>
@@ -156,7 +156,7 @@
 							<!-- Sponsors -->
 							<div class="container">
 								<div class="sponsors">
-									<h6 class="sponsors-title">Хамтрагчид:</h6>
+									<h6 class="sponsors-title">Хамтрагч байгууллагууд:</h6>
 									<ul class="sponsors-logos">
 										<li class="sponsors__item">
 											<a href="#" target="_blank">

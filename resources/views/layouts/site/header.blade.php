@@ -21,7 +21,7 @@
 
         <!-- Account Navigation -->
         <ul class="nav-account">
-          <li class="nav-account__item nav-account__item--wishlist gc-udirdamj"><a href="#">Удирдамж</a></li>
+          <li class="nav-account__item nav-account__item--wishlist gc-udirdamj"><a href="https://golomtcapital.com/ebook/files/GolomtCapitalChampionship.pdf" target="_blank">Удирдамж</a></li>
           @guest
           <li class="nav-account__item"><a href="#" data-toggle="modal" data-target="#modal-login-register">Бүртгүүлэх | Нэвтрэх</a></li>
           @endguest
@@ -81,13 +81,13 @@
 							<ul class="social-links social-links--inline social-links--main-nav">
 		
 								<li class="social-links__item">
-									<a href="#" class="social-links__link" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fab fa-facebook"></i></a>
+									<a href="https://www.facebook.com/GolomtCapital" target="_blank" class="social-links__link" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i class="fab fa-facebook"></i></a>
 								</li>
 								<li class="social-links__item">
-									<a href="#" class="social-links__link" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fab fa-twitter"></i></a>
+									<a href="https://twitter.com/golomtcapital" target="_blank" class="social-links__link" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fab fa-twitter"></i></a>
 								</li>
 								<li class="social-links__item">
-									<a href="#" class="social-links__link" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fab fa-instagram"></i></a>
+									<a href="https://www.instagram.com/golomt_capital/" target="_blank" class="social-links__link" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fab fa-instagram"></i></a>
 								</li>
 		
 							</ul>

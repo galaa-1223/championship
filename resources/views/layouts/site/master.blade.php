@@ -53,7 +53,8 @@
               <div class="modal-account__item">
 
                 <!-- Register Form -->
-                <form class="modal-form" action="{{ route('register.perform') }}" method="post" novalidate>
+                {{-- {{ route('register.perform') }} --}}
+                <form class="modal-form" action="#" method="post" novalidate>
                   @csrf
                   <h5>Бүртгүүлэх</h5>
                   <div class="form-group">
