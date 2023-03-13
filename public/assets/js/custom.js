@@ -35,8 +35,6 @@ $(document).on("submit", "#handleAjax", function() {
         dataType: 'json',
         success: function (data) {
 
-          console.log(data);
-
           $(e).find("[type='submit']").html("Нэвтрэх");
 
           if (data.status) {
@@ -88,4 +86,44 @@ $("#nickname").keyup(function(){
     $("#nickname").focus();
   }
 
+});
+
+
+// $(document).on("submit", "#handleAjax", function() {
+//   var e = this;
+
+
+//   return false;
+// });
+
+$("#handleAjax").validate({
+  rules: {
+    phone2: "required",
+    password2: {
+      required: true,
+      minlength: 8
+    },
+    password_repeat2: {
+      required: true,
+      minlength: 8,
+      equalTo: "#password2"
+    },
+    email2: {
+      required: true,
+      email: true
+    }
+  },
+  messages: {
+    phone2: "Please enter your firstname",
+    password2: {
+      required: "Please provide a password",
+      minlength: "Your password must be at least 5 characters long"
+    },
+    password_repeat2: {
+      required: "Please provide a password",
+      minlength: "Your password must be at least 5 characters long",
+      equalTo: "Please enter the same password as above"
+    },
+    email2: "Please enter a valid email address",
+  }
 });

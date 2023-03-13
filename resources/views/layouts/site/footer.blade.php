@@ -25,7 +25,7 @@
 										<h4 class="widget__title">Холбоо барих</h4>
 										<div class="widget__content">
 											<div class="widget-contact-info__desc">
-												<p>Text</p>
+												<p class="text-justify">Голомт Капитал ҮЦК ХХК нь харилцагчдадаа дэлхийн хөрөнгийн зах зээлийн боломжийг нээх, хөрөнгийн зах зээлийн талаарх мэдлэг мэдээллийг түгээх, боловсрол олгох, хүртэх өгөөжийг нь нэмэгдүүлэх зорилгоор “GОLOMT CAPITAL CHAMPIONSHIP” гадаад арилжааныг уралдааныг зохион байгуулж байна.</p>
 											</div>
 											<div class="widget-contact-info__body info-block">
 												<div class="info-block__item">
@@ -38,7 +38,7 @@
 													<h6 class="info-block__heading">Имэйл хаяг</h6>
 													<a class="info-block__link" href="mailto:championship@golomtcapital.com">championship@golomtcapital.com</a>
 												</div>
-												<div class="info-block__item info-block__item--nopadding">
+												{{-- <div class="info-block__item info-block__item--nopadding">
 													<ul class="social-links">
 		
 														<li class="social-links__item">
@@ -52,7 +52,7 @@
 														</li>
 		
 													</ul>
-												</div>
+												</div> --}}
 											</div>
 										</div>
 									</div>
@@ -154,7 +154,7 @@
 								</div>
 							</div>
 							<!-- Sponsors -->
-							<div class="container">
+							{{-- <div class="container">
 								<div class="sponsors">
 									<h6 class="sponsors-title">Хамтрагч байгууллагууд:</h6>
 									<ul class="sponsors-logos">
@@ -175,7 +175,7 @@
 										</li>
 									</ul>
 								</div>
-							</div>
+							</div> --}}
 							<!-- Sponsors / End -->
 						</div>
 					</div>
