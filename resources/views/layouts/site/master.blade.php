@@ -53,7 +53,7 @@
               <div class="modal-account__item">
 
                 <!-- Register Form -->
-                <form class="modal-form" action="{{ route('register.perform') }}" method="post" novalidate>
+                <form class="modal-form" id="handleAjaxRegister" action="{{ route('register.perform') }}" method="post" novalidate>
                   @csrf
                   <h5>Бүртгүүлэх</h5>
                   <div class="form-group">
@@ -61,6 +61,9 @@
                   </div>
                   <div class="form-group">
                     <input type="email" name="email" id="email2" class="form-control" placeholder="Имэйл хаяг оруулах">
+                  </div>
+                  <div class="form-group">
+                    <input type="text" name="register" id="register2" class="form-control" placeholder="Регистрийн дугаар оруулах">
                   </div>
                   <div class="form-group">
                     <input type="password" name="password" id="password2" class="form-control" placeholder="Нууц үгээ оруулах">

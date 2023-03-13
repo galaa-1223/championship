@@ -96,7 +96,7 @@ $("#nickname").keyup(function(){
 //   return false;
 // });
 
-$("#handleAjax").validate({
+$("#handleAjaxRegister").validate({
   rules: {
     phone2: "required",
     password2: {
