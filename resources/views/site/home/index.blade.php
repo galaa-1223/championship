@@ -1,6 +1,6 @@
 @extends('layouts.site.master')
 
-@section('title', 'Хянах самбар')
+@section('title', 'Championship')
 
 @section('css')
 @endsection
