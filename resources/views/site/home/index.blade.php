@@ -70,7 +70,7 @@
 									<div class="post-list__item">
 										<div class="posts__item posts__item--card posts__item--category-1 card card--block">
 											<figure class="posts__thumb">
-												<a href="#"><img src="assets/images/samples/post-img9-m.jpg" alt=""></a>
+												<a href="#"><img src="assets/images/post-img9-m.jpg" alt=""></a>
 											</figure>
 											<div class="posts__inner">
 												<div class="card__content">
@@ -213,7 +213,7 @@
 							<div class="posts__item posts__item--category-1">
 								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide1.jpg" alt="">
+										<img src="assets/images/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
 										<h3 class="posts__title">Golomt capital championship 2023</h3>
@@ -225,7 +225,7 @@
 							<div class="posts__item posts__item--category-1">
 								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide1.jpg" alt="">
+										<img src="assets/images/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
 										<h3 class="posts__title">Golomt capital championship 2023</h3>
@@ -237,7 +237,7 @@
 							<div class="posts__item posts__item--category-1">
 								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide1.jpg" alt="">
+										<img src="assets/images/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
 										<h3 class="posts__title">Golomt capital championship 2023</h3>
@@ -249,7 +249,7 @@
 							<div class="posts__item posts__item--category-1">
 								<a href="https://www.youtube.com/watch?v=ecNCdxcMSyE" class="posts__link-wrapper mp_iframe">
 									<figure class="posts__thumb">
-										<img src="assets/images/samples/video-slide1.jpg" alt="">
+										<img src="assets/images/video-slide1.jpg" alt="">
 									</figure>
 									<div class="posts__inner">
 										<h3 class="posts__title">Golomt capital championship 2023</h3>
